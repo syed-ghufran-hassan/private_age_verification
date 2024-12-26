@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { AgeVerification } from './AgeVerification.js';
 
-export { Add };
+export { AgeVerification };
